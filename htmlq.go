@@ -1,8 +1,8 @@
 package htmlq
 
 import (
-	"code.google.com/p/cascadia"
-	"code.google.com/p/go.net/html"
+	"github.com/andybalholm/cascadia"
+	"golang.org/x/net/html"
 	"io"
 	"strings"
 )
